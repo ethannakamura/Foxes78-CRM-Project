@@ -38,14 +38,41 @@ side{
     height:100%
 }
 
+#btn{
+  color: blue;
+  border-color: blue;
+}
+
+#btn1{
+  background-color: blue;
+  color: white;
+}
+
+#btn3{
+  background-color: blue;
+  color: white;
+}
+
+#btn4{
+  color: blue;
+}
+
 #dollarsign {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -75%);
+  transform: translate(-50%, -78%);
 }
   
-#landing_middle1{
+#landind_middle1{
   background-color: blue;
+  padding-top: 20px;
+  color: black;
+  border-color: grey;
+  border-width: 5px;
+}
+
+#landind_middle{
+  padding-top: 20px;
 }
   
