@@ -1,0 +1,81 @@
+#row1{
+    float: left;
+    color:black;
+    text-align:center;
+}
+#col1{
+    top:40px;
+}
+#signupbutton{
+    width:140px;
+    height:33.5px;
+    border-radius:40px;
+    border:2px solid black;
+    color:black;
+    position:relative;
+}
+#rocket{
+    width:300px;
+    margin-top:50px;
+    margin-left:50px;
+}
+#row2{
+    float: right;
+}
+#signinheader{
+    color:black;
+    text-align: center;
+}
+#col2{
+    top:50px;
+    color:black;
+}
+#forms{
+    width:300px;
+    border-radius: 80px;
+    list-style-type: none;
+    right:80px;
+}
+#username{
+    border-radius:30px;
+}
+#email{
+    border-radius:30px;
+}
+#password{
+    border-radius:30px;
+}
+#signinbutton{
+    width:140px;
+    height:33.3px;
+    border-radius:40px;
+    border:1px solid grey;
+    color:white;
+    background-color: rgba(0, 68, 255, 0.945);
+    margin-left:60px;
+}
+#or{
+    margin-top:20px;
+    font-size:10px;
+    text-align: center;
+}
+#icons{
+    margin-left:35px;
+}
+#fb{
+    width:45px;
+    height:45px;
+}
+#twitter{
+    width:40px;
+    height:40px;
+}
+#google{
+    width:40px;
+    height:40px;
+
+}
+#linkedin{
+    width:45px;
+    height:45px;
+}
