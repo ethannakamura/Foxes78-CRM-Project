@@ -1,4 +1,9 @@
+body{
+    background-image: blue;
+    border-radius: 100%;
+}
 #row1{
+    margin-left:50px;
     float: left;
     color:black;
     text-align:center;
@@ -21,6 +26,7 @@
 }
 #row2{
     float: right;
+    margin-right:60px;
 }
 #signinheader{
     color:black;
@@ -39,11 +45,21 @@
 #username{
     border-radius:30px;
 }
+#person{
+    width:12px;
+}
 #email{
     border-radius:30px;
 }
+#envelope{
+    width:18px;
+}
 #password{
     border-radius:30px;
+}
+#lock{
+    width:15px;
+    top:60px
 }
 #signinbutton{
     width:140px;
