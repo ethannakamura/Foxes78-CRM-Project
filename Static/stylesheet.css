@@ -1,44 +1,33 @@
-
-#nav-link{
-    background-color: black;  
-    font-size: small;  
-    color: white;
-}
-
-.nav{
-display: inline;
-margin:0;
-font-size: 15px;
-color:white;
-display:flex; justify-content:left ; flex-direction:row;
-align-items: flex-start;
-}
-
-.navbar{
-font-size: 1ch;
-color:black
-}
-
-
-
-  
-  .btn_right{ 
-    position: absolute; 
-    top: 10px; 
-    right: 10px; 
-  } 
-
-  main{
+main{
     width: 50%;
+    position: absolute
     float: left;
     height: 100%;
- }
+  }  
 
 side{
     width: 30%;
     float: right;
     height: 100%;
-
+    position: relative;
 }
-  
-  
+
+#Header-Slide{
+  flex-wrap: wrap;
+}
+
+.body-paragrap {
+  text-align: center;
+}
+
+.blue-slide{
+  float: left;
+}
+
+.blue-card{
+  display:flex; justify-content:right ; 
+  flex-direction:row;
+  align-items: flex-start; 
+  height:max-content;
+}
+
